@@ -1,0 +1,2 @@
+opencv-contrib-python
+face_recognition
